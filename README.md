@@ -1,6 +1,6 @@
 ## Project Description
 
-Cybersecurity course project that implements a web application with 5 intentional security flaws from the OWASP Top 10 (2021) list. The application provides basic user management functionality including registration, login and user search.
+Cybersecurity course project that implements a web application with 5 intentional security flaws from the OWASP Top 10 2021 list.
 
 ## Security Flaws Used
 

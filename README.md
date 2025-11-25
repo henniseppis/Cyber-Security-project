@@ -16,6 +16,19 @@ This application contains the following vulnerabilities:
 
 ### Installation
 
+#### Clone the application to your computer
+
+```bash
+git clone https://github.com/henniseppis/Cyber-Security-project.git
+
+```
+
+#### Enter the project folder
+
+```bash
+cd Cyber-Security-project
+```
+
 #### Install Backend Dependencies
 
 ```bash

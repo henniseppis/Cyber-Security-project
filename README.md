@@ -32,7 +32,7 @@ cd Cyber-Security-project
 #### Install Backend Dependencies
 
 ```bash
-# Navigate to backend directory
+# Navigate to backend directory, remember to be inside the project root directory at this point
 cd backend
 
 # Install dependencies
@@ -43,7 +43,7 @@ npm install
 #### Install Frontend Dependencies
 
 ```bash
-# Navigate to frontend directory
+# Navigate to frontend directory, remember to be inside the project root directory at this point
 cd frontend
 
 # Install dependencies
@@ -57,7 +57,7 @@ You need to run both the backend and frontend servers. So open **two separate te
 ### Terminal 1: Start the Backend Server
 
 ```bash
-# Navigate to backend directory
+# Navigate to backend directory, remember to be inside the project root directory at this point
 cd backend
 
 # Start the server
@@ -66,7 +66,7 @@ npm start
 ### Terminal 2: Start the Frontend Server
 
 ```bash
-# Navigate to frontend directory
+# Navigate to frontend directory, remember to be inside the project root directory at this point
 cd frontend
 
 # Start the React development server

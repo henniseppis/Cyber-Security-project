@@ -73,6 +73,10 @@ cd frontend
 npm start
 ```
 
+#### Most important code in this project
+
+You can find the backend code and the flaws inside backend/server.js
+
 ## Essay
 
 See the returned essay for detailed instructions (returned to the course page so only visible to the students/teachers in the course).

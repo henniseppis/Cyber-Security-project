@@ -14,9 +14,6 @@ This application contains the following vulnerabilities:
 
 ## Prerequisites
 
-### All Platforms
-- **Node.js** (version 14.x or higher)
-
 ### Installation
 
 #### Install Backend Dependencies
@@ -28,8 +25,6 @@ cd backend
 # Install dependencies
 npm install
 
-# Return to project root
-cd ..
 ```
 
 #### Install Frontend Dependencies
@@ -40,9 +35,6 @@ cd frontend
 
 # Install dependencies
 npm install
-
-# Return to project root
-cd ..
 ```
 
 ## Running the Application

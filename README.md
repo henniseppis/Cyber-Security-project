@@ -16,6 +16,8 @@ This application contains the following vulnerabilities:
 
 ### Installation
 
+### First install NodeJS, if you don't have it yet
+
 #### Clone the application to your computer
 
 ```bash

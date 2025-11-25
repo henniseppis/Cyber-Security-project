@@ -71,6 +71,3 @@ npm start
 ## Essay
 
 See the returned essay for detailed instructions (returned to the course page so only visible to the students/teachers in the course).
-
-
-```

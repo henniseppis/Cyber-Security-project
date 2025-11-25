@@ -73,7 +73,7 @@ cd frontend
 npm start
 ```
 
-#### Most important code in this project
+#### Most important file in this project
 
 You can find the backend code and the flaws inside backend/server.js
 

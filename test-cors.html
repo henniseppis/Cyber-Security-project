@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>CORS Test - Evil Site</title></head>
+<body>
+  <h1>Malicious Site Testing CORS</h1>
+  <button onclick="attackAPI()">Steal User Data</button>
+  <pre id="result"></pre>
+
+  <script>
+    async function attackAPI() {
+      try {
+        const response = await fetch('http://localhost:3001/api/search?query=alice');
+        const data = await response.json();
+        document.getElementById('result').textContent =
+          'SUCCESS! Stolen data:\n' + JSON.stringify(data, null, 2);
+      } catch (error) {
+        document.getElementById('result').textContent =
+          'BLOCKED! ' + error.message;
+      }
+    }
+  </script>
+</body>
+</html>

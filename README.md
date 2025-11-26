@@ -77,7 +77,7 @@ npm start
 
 #### Most important file in this project
 
-You can find the backend code and the flaws inside backend/server.js
+You can find the backend code, the flaws and fixed flaws inside backend/server.js
 
 ## Essay
 
